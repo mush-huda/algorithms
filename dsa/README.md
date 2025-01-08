@@ -1,11 +1,11 @@
 # Data Structures & Algorithms
-- We are dividing the topic into 3 sections:
+We are dividing the topic into 3 sections:
 1. Data Structures
 2. Algorithms
 3. Problem Solving Patterns
 
 ## Data Structures
-- Two types of data structures:
+Two types of data structures:
 #### Linear Data Structures
 * Arrays
 * Linked List (Singly, Doubly, Circular)
@@ -29,7 +29,7 @@
 * [Linear Search](docs/ds/linear_search.md)
   * Unordered
   * Ordered
-* Binary Search
+* [Binary Search](docs/ds/binary_search.md)
 
 #### Sorting:
 * Bubble Sort
